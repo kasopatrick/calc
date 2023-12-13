@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFEB3B</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Simple calculator</string>
+    <string name="liverpool_football_club">LIVERPOOL FOOTBALL CLUB</string>
+    <style name="Base.Theme.SimpleCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.SimpleCalculator" parent="Base.Theme.SimpleCalculator"/>
+</resources>
